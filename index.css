@@ -1,0 +1,26 @@
+*{
+    background-color:dimgray;
+    
+    
+}
+.container{
+    display: flexbox;
+    flex-wrap: wrap;
+    
+    margin: 0 250px;
+    
+    
+}
+
+button{
+    
+    border-style: solid;
+    background-color: white;
+    padding: 30px;
+}
+body{
+    display: flexbox;
+    text-align: center;
+   
+   
+}
